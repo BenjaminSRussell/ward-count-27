@@ -907,3 +907,6 @@
 {"n":907,"kind":"place","name":"South stair east gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair east gutter. Bess keeps the lamp for the wipe. 3 steps, direct on the left lane, open."}
 {"n":908,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east gutter. direct left open. 4 steps. The lamp stays for the wipe."}
 {"n":909,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at the pier. Nobody past the east gutter. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":910,"kind":"place","name":"the pier east gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier east gutter. Matt keeps the lamp for the wipe. 6 steps, direct on the left lane, open."}
+{"n":911,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east gutter. direct left open. 7 steps. The lamp stays for the wipe."}
+{"n":912,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at the pier. Nobody past the east gutter. We wipe in 8 steps. Direct on the left lane, open."}
