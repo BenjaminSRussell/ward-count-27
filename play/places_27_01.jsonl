@@ -525,3 +525,6 @@
 {"n":525,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east dock. direct left open. 6 steps. The awning stays for the wipe."}
 {"n":526,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at the pier. Nobody past the east dock. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":527,"kind":"place","name":"the pier east dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier east dock. Bess keeps the awning for the wipe. 8 steps, direct on the left lane, open."}
+{"n":528,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east dock. direct left open. 2 steps. The awning stays for the wipe."}
+{"n":529,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Clinic roof. Nobody past the east dock. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":530,"kind":"place","name":"Clinic roof east dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof east dock. Matt keeps the awning for the wipe. 4 steps, direct on the left lane, open."}
