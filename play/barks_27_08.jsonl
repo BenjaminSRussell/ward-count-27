@@ -199,3 +199,6 @@
 {"n":199,"kind":"place","name":"the Underpass east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass east gutter. Bess keeps the plywood for the wipe. 2 steps, direct on the left lane, open."}
 {"n":200,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east gutter. direct left open. 3 steps. The plywood stays for the wipe."}
 {"n":201,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Mast yard. Nobody past the east gutter. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":202,"kind":"place","name":"Mast yard east gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard east gutter. Matt keeps the plywood for the wipe. 5 steps, direct on the left lane, open."}
+{"n":203,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east gutter. direct left open. 6 steps. The plywood stays for the wipe."}
+{"n":204,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Mast yard. Nobody past the east gutter. We wipe in 7 steps. Direct on the left lane, open."}
