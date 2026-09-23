@@ -404,3 +404,6 @@
 {"n":404,"kind":"place","name":"High line east dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line east dock. Ivo keeps the shutter for the wipe. 4 steps, direct on the left lane, open."}
 {"n":405,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east dock. direct left open. 5 steps. The shutter stays for the wipe."}
 {"n":406,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at High line. Nobody past the east dock. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":407,"kind":"place","name":"High line east dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line east dock. Bess keeps the shutter for the wipe. 7 steps, direct on the left lane, open."}
+{"n":408,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east dock. direct left open. 8 steps. The shutter stays for the wipe."}
+{"n":409,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Ward gate. Nobody past the east dock. We wipe in 2 steps. Direct on the left lane, open."}
