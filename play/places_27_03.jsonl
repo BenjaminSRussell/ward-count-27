@@ -211,3 +211,6 @@
 {"n":211,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north dock. direct left open. 5 steps. The rope stays for the wipe."}
 {"n":212,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rope at Clinic roof. Nobody past the north dock. We wipe in 6 steps. Direct on the left lane, open."}
 {"n":213,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof north dock. Nia keeps the rope for the wipe. 7 steps, direct on the left lane, open."}
+{"n":214,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north dock. direct left open. 8 steps. The rope stays for the wipe."}
+{"n":215,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rope at Clinic roof. Nobody past the north dock. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":216,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof north dock. Ivo keeps the rope for the wipe. 3 steps, direct on the left lane, open."}
