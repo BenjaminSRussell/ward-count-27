@@ -644,3 +644,6 @@
 {"n":644,"kind":"place","name":"the Underpass east dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Underpass east dock. Ivo keeps the drum for the wipe. 6 steps, direct on the left lane, open."}
 {"n":645,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east dock. direct left open. 7 steps. The drum stays for the wipe."}
 {"n":646,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at the Underpass. Nobody past the east dock. We wipe in 8 steps. Direct on the left lane, open."}
+{"n":647,"kind":"place","name":"the Underpass east dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass east dock. Bess keeps the drum for the wipe. 2 steps, direct on the left lane, open."}
+{"n":648,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east dock. direct left open. 3 steps. The drum stays for the wipe."}
+{"n":649,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Mast yard. Nobody past the east dock. We wipe in 4 steps. Direct on the left lane, open."}
