@@ -415,3 +415,6 @@
 {"n":415,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line north dock. Bess keeps the hydrant for the wipe. 7 steps, direct on the left lane, open."}
 {"n":416,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north dock. direct left open. 8 steps. The hydrant stays for the wipe."}
 {"n":417,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Ward gate. Nobody past the north dock. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":418,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate north dock. Matt keeps the barrel for the wipe. 3 steps, direct on the left lane, open."}
+{"n":419,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north dock. direct left open. 4 steps. The barrel stays for the wipe."}
+{"n":420,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at Ward gate. Nobody past the north dock. We wipe in 5 steps. Direct on the left lane, open."}
