@@ -532,3 +532,6 @@
 {"n":532,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light south dock. Ivo keeps the awning for the wipe. 2 steps, direct on the left lane, open."}
 {"n":533,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, south dock. direct left open. 3 steps. The awning stays for the wipe."}
 {"n":534,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Last Light. Nobody past the south dock. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":535,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light south dock. Bess keeps the awning for the wipe. 5 steps, direct on the left lane, open."}
+{"n":536,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south dock. direct left open. 6 steps. The awning stays for the wipe."}
+{"n":537,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at South stair. Nobody past the south dock. We wipe in 7 steps. Direct on the left lane, open."}
