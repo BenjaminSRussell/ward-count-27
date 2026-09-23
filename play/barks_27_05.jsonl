@@ -496,3 +496,6 @@
 {"n":496,"kind":"place","name":"Mall court south dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court south dock. Ivo keeps the awning for the wipe. 8 steps, direct on the left lane, open."}
 {"n":497,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south dock. direct left open. 2 steps. The awning stays for the wipe."}
 {"n":498,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Mall court. Nobody past the south dock. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":499,"kind":"place","name":"Mall court south dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court south dock. Bess keeps the awning for the wipe. 4 steps, direct on the left lane, open."}
+{"n":500,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south dock. direct left open. 5 steps. The awning stays for the wipe."}
+{"n":501,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at the Underpass. Nobody past the south dock. We wipe in 6 steps. Direct on the left lane, open."}
