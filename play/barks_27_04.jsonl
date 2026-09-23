@@ -548,3 +548,6 @@
 {"n":548,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier south dock. Ivo keeps the barrel for the wipe. 5 steps, direct on the left lane, open."}
 {"n":549,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south dock. direct left open. 6 steps. The barrel stays for the wipe."}
 {"n":550,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at the pier. Nobody past the south dock. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":551,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier south dock. Bess keeps the barrel for the wipe. 8 steps, direct on the left lane, open."}
+{"n":552,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south dock. direct left open. 2 steps. The barrel stays for the wipe."}
+{"n":553,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Clinic roof. Nobody past the south dock. We wipe in 3 steps. Direct on the left lane, open."}
