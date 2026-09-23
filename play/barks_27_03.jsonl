@@ -408,3 +408,6 @@
 {"n":408,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock north dock. Ivo keeps the shutter for the wipe. 6 steps, direct on the left lane, open."}
 {"n":409,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north dock. direct left open. 7 steps. The shutter stays for the wipe."}
 {"n":410,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at Drydock. Nobody past the north dock. We wipe in 8 steps. Direct on the left lane, open."}
+{"n":411,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock north dock. Bess keeps the shutter for the wipe. 2 steps, direct on the left lane, open."}
+{"n":412,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north dock. direct left open. 3 steps. The shutter stays for the wipe."}
+{"n":413,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at High line. Nobody past the north dock. We wipe in 4 steps. Direct on the left lane, open."}
