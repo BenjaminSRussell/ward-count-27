@@ -912,3 +912,6 @@
 {"n":912,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east dock. direct left open. 8 steps. The badge door stays for the wipe."}
 {"n":913,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Ward gate. Nobody past the east dock. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":914,"kind":"place","name":"Ward gate east dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate east dock. Matt keeps the radio coil for the wipe. 3 steps, direct on the left lane, open."}
+{"n":915,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east dock. direct left open. 4 steps. The radio coil stays for the wipe."}
+{"n":916,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Ward gate. Nobody past the east dock. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":917,"kind":"place","name":"Ward gate east dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Ward gate east dock. Nia keeps the radio coil for the wipe. 6 steps, direct on the left lane, open."}
