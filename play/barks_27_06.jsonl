@@ -867,3 +867,6 @@
 {"n":867,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard west gutter. Bess keeps the lamp for the wipe. 7 steps, direct on the left lane, open."}
 {"n":868,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west gutter. direct left open. 8 steps. The lamp stays for the wipe."}
 {"n":869,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Last Light. Nobody past the west gutter. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":870,"kind":"place","name":"Last Light west gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light west gutter. Matt keeps the lamp for the wipe. 3 steps, direct on the left lane, open."}
+{"n":871,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west gutter. direct left open. 4 steps. The lamp stays for the wipe."}
+{"n":872,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at Last Light. Nobody past the west gutter. We wipe in 5 steps. Direct on the left lane, open."}
