@@ -780,3 +780,6 @@
 {"n":780,"kind":"place","name":"Kessler alley north dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley north dock. Ivo keeps the badge door for the wipe. 7 steps, direct on the left lane, open."}
 {"n":781,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north dock. direct left open. 8 steps. The badge door stays for the wipe."}
 {"n":782,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Kessler alley. Nobody past the north dock. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":783,"kind":"place","name":"Kessler alley north dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley north dock. Bess keeps the badge door for the wipe. 3 steps, direct on the left lane, open."}
+{"n":784,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north dock. direct left open. 4 steps. The badge door stays for the wipe."}
+{"n":785,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at the Lot. Nobody past the north dock. We wipe in 5 steps. Direct on the left lane, open."}
