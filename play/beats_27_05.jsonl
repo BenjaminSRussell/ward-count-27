@@ -591,3 +591,6 @@
 {"n":591,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the awning at Drydock. Nobody past the south dock. We wipe in 5 steps. Direct on the left lane, open."}
 {"n":592,"kind":"place","name":"Drydock south dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock south dock. Ivo keeps the awning for the wipe. 6 steps, direct on the left lane, open."}
 {"n":593,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south dock. direct left open. 7 steps. The awning stays for the wipe."}
+{"n":594,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Drydock. Nobody past the south dock. We wipe in 8 steps. Direct on the left lane, open."}
+{"n":595,"kind":"place","name":"Drydock south dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock south dock. Bess keeps the awning for the wipe. 2 steps, direct on the left lane, open."}
+{"n":596,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south dock. direct left open. 3 steps. The awning stays for the wipe."}
