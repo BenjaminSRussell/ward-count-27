@@ -875,3 +875,6 @@
 {"n":875,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north dock. direct left open. 5 steps. The lamp stays for the wipe."}
 {"n":876,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at Clinic roof. Nobody past the north dock. We wipe in 6 steps. Direct on the left lane, open."}
 {"n":877,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof north dock. Nia keeps the lamp for the wipe. 7 steps, direct on the left lane, open."}
+{"n":878,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north dock. direct left open. 8 steps. The lamp stays for the wipe."}
+{"n":879,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the lamp at Clinic roof. Nobody past the north dock. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":880,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof north dock. Ivo keeps the lamp for the wipe. 3 steps, direct on the left lane, open."}
