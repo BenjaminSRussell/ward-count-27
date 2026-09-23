@@ -228,3 +228,6 @@
 {"n":228,"kind":"place","name":"the pier west gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier west gutter. Ivo keeps the plywood for the wipe. 5 steps, direct on the left lane, open."}
 {"n":229,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west gutter. direct left open. 6 steps. The plywood stays for the wipe."}
 {"n":230,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at the pier. Nobody past the west gutter. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":231,"kind":"place","name":"the pier west gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier west gutter. Bess keeps the plywood for the wipe. 8 steps, direct on the left lane, open."}
+{"n":232,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west gutter. direct left open. 2 steps. The plywood stays for the wipe."}
+{"n":233,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Clinic roof. Nobody past the west gutter. We wipe in 3 steps. Direct on the left lane, open."}
