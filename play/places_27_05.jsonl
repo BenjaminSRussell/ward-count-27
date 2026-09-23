@@ -761,3 +761,6 @@
 {"n":761,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south dock. direct left open. 7 steps. The drum stays for the wipe."}
 {"n":762,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Drydock. Nobody past the south dock. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":763,"kind":"place","name":"Drydock south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock south dock. Bess keeps the drum for the wipe. 2 steps, direct on the left lane, open."}
+{"n":764,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south dock. direct left open. 3 steps. The drum stays for the wipe."}
+{"n":765,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at High line. Nobody past the south dock. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":766,"kind":"place","name":"High line south dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line south dock. Matt keeps the drum for the wipe. 5 steps, direct on the left lane, open."}
