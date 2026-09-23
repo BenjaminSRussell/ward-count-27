@@ -938,3 +938,6 @@
 {"n":938,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at the Lot. Nobody past the east dock. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":939,"kind":"place","name":"the Lot east dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot east dock. Bess keeps the rebar for the wipe. 8 steps, direct on the left lane, open."}
 {"n":940,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east dock. direct left open. 2 steps. The rebar stays for the wipe."}
+{"n":941,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the east dock. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":942,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence east dock. Matt keeps the rebar for the wipe. 4 steps, direct on the left lane, open."}
+{"n":943,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east dock. direct left open. 5 steps. The rebar stays for the wipe."}
