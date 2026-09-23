@@ -741,3 +741,6 @@
 {"n":741,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south dock. direct left open. 2 steps. The crate stays for the wipe."}
 {"n":742,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Switchyard. Nobody past the south dock. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":743,"kind":"place","name":"Switchyard south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard south dock. Bess keeps the crate for the wipe. 4 steps, direct on the left lane, open."}
+{"n":744,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south dock. direct left open. 5 steps. The crate stays for the wipe."}
+{"n":745,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Drydock. Nobody past the south dock. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":746,"kind":"place","name":"Drydock south dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock south dock. Matt keeps the crate for the wipe. 7 steps, direct on the left lane, open."}
